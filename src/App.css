@@ -1,0 +1,34 @@
+.flexdis{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.taillep{
+  width: 100%;
+  height: 130px;
+  overflow: auto;
+  font-size: 13px;
+
+}
+.margint{
+  margin-top: 20px;
+
+}
+
+.bluesky{
+background-color: #4682B4;
+border: #4682B4;
+
+}
+
+.navLink {
+  margin-left: 10px;
+  color: gray;
+  text-decoration: none;
+}
+
+.selectedLink{
+  font-weight: bold;
+  color: mediumblue;
+}
